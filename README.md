@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Desenvolvedor Back-End</b> · Python (FastAPI · Django) · PostgreSQL · APIs REST
+  <h1>Desenvolvedor Back-End</h1> · Python (FastAPI · Django) · PostgreSQL · APIs REST
 </p>
 
 <p align="center">
