@@ -64,13 +64,6 @@ Sistema full-stack de finanças pessoais. API REST em **Node.js + Express + Mong
 **[Achados e Perdidos](https://github.com/brunoaugusto1510/achados_e_perdidos)**
 Sistema de gestão de achados e perdidos escolar. App **Flutter (Dart)** com back-end serverless em **Firebase** (Firestore + Cloud Functions). Projeto em equipe.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Falci&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Falci&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
 ## 📫 Contato
 
 - LinkedIn: [gustavo-falci](https://www.linkedin.com/in/gustavo-falci-9a786627a)
