@@ -1,5 +1,3 @@
-<h1 align="center">Gustavo Falci</h1>
-
 <p align="center">
   <b>Desenvolvedor Back-End</b> · Python (FastAPI · Django) · PostgreSQL · APIs REST
 </p>
