@@ -19,9 +19,9 @@ Desenvolvedor back-end focado em construir APIs e sistemas do projeto ao deploy.
 
 - 🏢 Desenvolvedor na **IT Consol Brasil**
 - 🔧 Back-end: Python · FastAPI · Django · Node.js · Express
-- 🗄️ Bancos de dados: PostgreSQL · MongoDB
+- 🗄️ Bancos de dados: PostgreSQL · MongoDB · Firebase
 - ☁️ Deploy em produção: Nginx · Gunicorn · Oracle Cloud · Vercel · Linux
-- 📱 Também atuo em mobile com Flutter + Firebase
+- 📱 Também atuo em mobile com React Native, Flutter + Firebase
 - 🤝 Projetos desenvolvidos em equipe, com versionamento e code review
 
 ## 🛠️ Tecnologias
